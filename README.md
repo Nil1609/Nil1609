@@ -9,12 +9,16 @@
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
 <ul>
-  <li> 📺 Currently watching <b>86 Eighty Six</b></li>
-  <li> 🔭 I’m currently working on <b>Intune deployment for clients</b></li>
-  <li> 🎮 I’m currently playing <b>Genshin Impact</b> or <b>Battlefield V</b></li>
-  <li> 🤔 I’m looking for help with <b>becoming a Microsoft MVP</b></li>
-  <li> 📫 How to reach me: <b>0go1fbn9c@relay.firefox.com</b></li>
+  <li> 💤 Procrastination is my ninja way</li>
+  <li> 🖥️ Sometimes I code... mostly I stare at bugs like they're anime plot twists</li>
+  <li> 🧠 Brain: 20% code | 80% daydreaming</li>
+  <li> 🎮 Gamer, anime binge-watcher, night owl dev</li>
+  <li> 💻 Tech stack? Still figuring it out between naps</li>
+  <li> ✨ Currently working on... nothing (but planning everything)</li>
+  <li> 🚀 Dream: Build something cool before graduation (or at least pass with grace)</li>
+  <li> 🍜 P.S. Don’t expect much, I’m running on ramen and vibes</li>
 </ul>
+
 
 <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
