@@ -33,7 +33,11 @@
     <img src="https://img.shields.io/badge/Jump%20Force-%23000000.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Jump Force"/>
   </p>
 
+
+
+
 </div>
+
 
 
 
