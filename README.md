@@ -37,27 +37,22 @@
 
 
 <div>
-<h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
-</div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<br>
+
 <div align="center">
-  <p align = "center">An entry-level Microsoft adminstrator in college watching out for clients with my experience in MS/O365 cloud apps and endpoint management via Intune.<br></p>
-  <p align = "center">
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white" alt="Adobe Creative Cloud" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black" alt="Android" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white" alt="Apple" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" alt="Azure" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white" alt="Exchange" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white" alt="OneDrive" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_SharePoint-038387?style=flat-square&logo=Microsoft-SharePoint&logoColor=white" alt="SharePoint" height="30" />
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white" alt="Teams" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white" alt="CommandPrompt" height="30" />  
-    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows" height="30" />
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+</div>
+
+<div>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
   </p>
-  <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
+  <br>
 </div>
 
 <br>
