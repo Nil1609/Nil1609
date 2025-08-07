@@ -18,7 +18,7 @@
   <li> 🚀 Dream: Build something cool before graduation (or at least pass with grace)</li>
   <li> 🍜 P.S. Don’t expect much, I’m running on ramen and vibes</li>
 </ul>
-<h2 align="center">🎮 ~ 𝓖𝓪𝓶𝓮𝓼 𝓘 𝓟𝓵𝓪𝔂 ~</h2>
+<h2 align="center">🎮 ~ 𝙶𝚊𝚖𝚎𝚜 𝙸 𝙿𝚕𝚊𝚢~</h2>
 
 <!-- Anime Gaming GIF -->
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
@@ -39,7 +39,7 @@
 <br clear="left"><!-- Clears GIF float so Knowledge starts below -->
 
 <!-- Knowledge Section -->
-<h2 align="center">~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 📇 ~</h2>
+<h2 align="center">~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎📇 ~</h2>
 
 <div align="center">
   <p>
