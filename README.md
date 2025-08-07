@@ -19,18 +19,19 @@
   <li> 🍜 P.S. Don’t expect much, I’m running on ramen and vibes</li>
 </ul>
 
+<h2 align="center">🎮 ~ 𝓖𝓪𝓶𝓮𝓼 𝓘 𝓟𝓵𝓪𝔂 ~</h2>
 
 <div align="center">
-<h2 align="center">🎧 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝗧𝗼 🎧</h2>
-
-<div align="center">
-  <iframe style="border-radius:12px" 
-    src="https://open.spotify.com/embed/playlist/4eWBwGl0c5wtp6k5Krp6My?utm_source=generator" 
-    width="100%" height="352" frameBorder="0" allowfullscreen="" 
-    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
-    loading="lazy">
-  </iframe>
+  <p>
+    <img src="https://img.shields.io/badge/Wuthering%20Waves-%23000000.svg?&style=for-the-badge&logo=bytedance&logoColor=white" alt="Wuthering Waves"/>
+    <img src="https://img.shields.io/badge/Valorant-%23FF4655.svg?&style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant"/>
+    <img src="https://img.shields.io/badge/Sekiro:%20Shadows%20Die%20Twice-%231c1c1c.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Sekiro"/>
+    <img src="https://img.shields.io/badge/Naruto%20Storm%204-%23f6b93b.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Naruto Ninja Storm 4"/>
+    <img src="https://img.shields.io/badge/Far%20Cry%205-%23007396.svg?&style=for-the-badge&logo=ubisoft&logoColor=white" alt="Far Cry 5"/>
+    <img src="https://img.shields.io/badge/Jump%20Force-%23000000.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Jump Force"/>
+  </p>
 </div>
+
 
 
 
