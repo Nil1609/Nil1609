@@ -53,7 +53,7 @@
 <br>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" width="400px" alt="Knowledge GIF" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0bHJ0Y2g3cXg2a2IzM2gwdXRjamFzZzNsbHVnd2E2d2VlaXZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif" width="400px" alt="Knowledge GIF" />
 </div>
 
 <br>
