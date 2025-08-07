@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
+  <h1 align="center"𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚃𝚘</h1>
   <a href="https://open.spotify.com/playlist/4eWBwGl0c5wtp6k5Krp6My?si=b42b385449794bd2" target="_blank" rel="noopener noreferrer">
     <img
       src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE"
@@ -37,7 +37,7 @@
 
 
 <div>
-<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="center">            ~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 📇 ~</h2>
 <br>
 
 <div>
