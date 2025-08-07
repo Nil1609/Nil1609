@@ -18,11 +18,13 @@
   <li> 🚀 Dream: Build something cool before graduation (or at least pass with grace)</li>
   <li> 🍜 P.S. Don’t expect much, I’m running on ramen and vibes</li>
 </ul>
-
 <h2 align="center">🎮 ~ 𝓖𝓪𝓶𝓮𝓼 𝓘 𝓟𝓵𝓪𝔂 ~</h2>
-  <!-- Anime Gaming GIF below badges -->
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
-       width="400px" alt="Gaming Anime GIF" align="left">
+
+<!-- Anime Gaming GIF -->
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
+     width="400px" alt="Gaming Anime GIF" align="left" style="margin-right: 20px;">
+
+<!-- Game Badges -->
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Wuthering%20Waves-%23000000.svg?&style=for-the-badge&logo=bytedance&logoColor=white" alt="Wuthering Waves"/>
@@ -32,31 +34,15 @@
     <img src="https://img.shields.io/badge/Far%20Cry%205-%23007396.svg?&style=for-the-badge&logo=ubisoft&logoColor=white" alt="Far Cry 5"/>
     <img src="https://img.shields.io/badge/Jump%20Force-%23000000.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Jump Force"/>
   </p>
-
-
-
-
 </div>
 
+<br clear="left"><!-- Clears GIF float so Knowledge starts below -->
 
+<!-- Knowledge Section -->
+<h2 align="center">~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 📇 ~</h2>
 
-
-<br>
-
-
-
-
-
-
-<div>
-
-
-  
-<h2 align="center">            ~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎 📇 ~</h2>
-<br>
-
-<div>
-  <p align="center">
+<div align="center">
+  <p>
     <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -64,8 +50,6 @@
     <img src="https://img.shields.io/badge/Arduino_IDE-%230097A7.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
   </p>
 </div>
-
-<br>
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0bHJ0Y2g3cXg2a2IzM2gwdXRjamFzZzNsbHVnd2E2d2VlaXZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif" width="400px" alt="Knowledge GIF" />
