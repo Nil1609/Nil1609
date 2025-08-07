@@ -30,10 +30,11 @@
     <img src="https://img.shields.io/badge/Far%20Cry%205-%23007396.svg?&style=for-the-badge&logo=ubisoft&logoColor=white" alt="Far Cry 5"/>
     <img src="https://img.shields.io/badge/Jump%20Force-%23000000.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Jump Force"/>
   </p>
+
+  <!-- Anime Gaming GIF below badges -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
+       width="400px" alt="Gaming Anime GIF" />
 </div>
-
-
-
 
 
 
