@@ -36,27 +36,19 @@
 <br>
 
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 40px; flex-wrap: wrap;">
+<div>
+<h2 align="center">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<br>
 
-  <!-- Left: Heading and badges -->
-  <div>
-    <h2 align="left">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-    <br>
-    <p align="left">
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Arduino_IDE-%230097A7.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
-    </p>
-  </div>
-
-  <!-- Right: GIF/Image -->
-  <div>
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0bHJ0Y2g3cXg2a2IzM2gwdXRjamFzZzNsbHVnd2E2d2VlaXZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif" width="300px" alt="Anime Knowledge GIF"/>
-    <!-- or use your uploaded image -->
-    <!-- <img src="./0e46f433-7fc2-4161-a047-ab5541d79085.png" width="300px" alt="My Anime" /> -->
-  </div>
+<div>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Arduino_IDE-%230097A7.svg?&style=for-the-badge&logo=arduino&logoColor=white"/>
+  </p>
+</div>
 
 </div>
 
