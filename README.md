@@ -20,7 +20,9 @@
 </ul>
 
 <h2 align="center">🎮 ~ 𝓖𝓪𝓶𝓮𝓼 𝓘 𝓟𝓵𝓪𝔂 ~</h2>
-
+  <!-- Anime Gaming GIF below badges -->
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
+       width="400px" alt="Gaming Anime GIF" align="left">
 <div align="center">
   <p>
     <img src="https://img.shields.io/badge/Wuthering%20Waves-%23000000.svg?&style=for-the-badge&logo=bytedance&logoColor=white" alt="Wuthering Waves"/>
