@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
-<img src="https://64.media.tumblr.com/f6137fd93ed1feb0f22ad5de004166f7/6aa7879790bc286b-27/s540x810/fbce2b9741f6aa9aff720021aa062da8ff7ff655.gifv" align="right">
+<img src="https://giffiles.alphacoders.com/132/132374.gif" align="right">
 <ul>
   <li> 💤 Procrastination is my ninja way</li>
   <li> 🖥️ Sometimes I code... mostly I stare at bugs like they're anime plot twists</li>
