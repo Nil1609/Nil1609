@@ -21,15 +21,17 @@
 
 
 <div align="center">
-  <h1 align="center"𝙻𝚒𝚜𝚝𝚎𝚗𝚒𝚗𝚐 𝚃𝚘</h1>
-  <a href="https://open.spotify.com/playlist/4eWBwGl0c5wtp6k5Krp6My?si=b42b385449794bd2" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE"
-      width="720"
-      alt="My Spotify Playlist"
-    />
-  </a>
+  <h2 align="center">🎧 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝗧𝗼 🎧</h2>
+
+<div align="center">
+  <iframe style="border-radius:12px" 
+    src="https://open.spotify.com/embed/playlist/4eWBwGl0c5wtp6k5Krp6My?utm_source=generator" 
+    width="100%" height="352" frameBorder="0" allowfullscreen="" 
+    allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+    loading="lazy">
+  </iframe>
 </div>
+
 
 
 
