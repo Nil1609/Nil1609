@@ -50,6 +50,13 @@
   </p>
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXV0bHJ0Y2g3cXg2a2IzM2gwdXRjamFzZzNsbHVnd2E2d2VlaXZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2XLoAphEiufV6/giphy.gif" width="400px" alt="Knowledge GIF" />
+</div>
+
+
 </div>
 
 
