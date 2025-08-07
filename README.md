@@ -1,8 +1,7 @@
 
 <h1 align="center">💠 ようこそ 👋, 𝘐'𝘮 𝘑𝘰𝘴𝘩! 💠</h1>
 <div align="center">
-  <img width="720" height="auto" src=![11348444](https://github.com/user-attachments/assets/4f568a1a-9b3e-4513-b590-b0968c5055f9)
->
+  <img width="720" height="auto" src=https://images.gr-assets.com/hostedimages/1412267943ra/11348444.gif>
 </div>
 
 <br>
