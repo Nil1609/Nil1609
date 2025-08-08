@@ -9,10 +9,8 @@
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
 <img src="https://giffiles.alphacoders.com/132/132374.gif" align="right">
 <ul>
-  <li> 💤 Procrastination is my ninja way</li>
   <li> 🖥️ Sometimes I code... mostly I stare at bugs like they're anime plot twists</li>
   <li> 🧠 Brain: 20% code | 80% daydreaming</li>
-  <li> 🎮 Gamer, anime binge-watcher, night owl dev</li>
   <li> 💻 Tech stack? Still figuring it out between naps</li>
   <li> ✨ Currently working on... nothing (but planning everything)</li>
   <li> 🚀 Dream: Build something cool before graduation (or at least pass with grace)</li>
