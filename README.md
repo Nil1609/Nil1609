@@ -7,31 +7,40 @@
 <br>
 
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
-<img src="https://giffiles.alphacoders.com/132/132374.gif" align="right">
-<ul>
-  <li> 🖥️ Sometimes I code... mostly I stare at bugs like they're anime plot twists</li>
-  <li> 🧠 Brain: 20% code | 80% daydreaming</li>
-  <li> 💻 Tech stack? Still figuring it out between naps</li>
-  <li> ✨ Currently working on... nothing (but planning everything)</li>
-  <li> 🚀 Dream: Build something cool before graduation (or at least pass with grace)</li>
-  <li> 🍜 P.S. Don’t expect much, I’m running on ramen and vibes</li>
-</ul>
-<h2 align="center">🎮 ~ 𝙶𝚊𝚖𝚎𝚜 𝙸 𝙿𝚕𝚊𝚢~</h2>
 
-<!-- Anime Gaming GIF -->
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
-     width="400px" alt="Gaming Anime GIF" align="left" style="margin-right: 20px;">
+<!-- About Me Section -->
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <ul>
+      <li> 🖥️ Sometimes I code... mostly I stare at bugs like they're anime plot twists</li>
+      <li> 🧠 Brain: 20% code | 80% daydreaming</li>
+      <li> 💻 Tech stack? Still figuring it out between naps</li>
+      <li> ✨ Currently working on... nothing (but planning everything)</li>
+      <li> 🚀 Dream: Build something cool before graduation (or at least pass with grace)</li>
+      <li> 🍜 P.S. Don’t expect much, I’m running on ramen and vibes</li>
+    </ul>
+  </div>
+  <div style="flex-shrink: 0;">
+    <img src="https://giffiles.alphacoders.com/132/132374.gif" width="250px" alt="Anime GIF">
+  </div>
+</div>
 
-<!-- Game Badges -->
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Wuthering%20Waves-%23000000.svg?&style=for-the-badge&logo=bytedance&logoColor=white" alt="Wuthering Waves"/>
-    <img src="https://img.shields.io/badge/Valorant-%23FF4655.svg?&style=for-the-badge&logo=valorant&logoColor=white" alt="Valorant"/>
-    <img src="https://img.shields.io/badge/Sekiro:%20Shadows%20Die%20Twice-%231c1c1c.svg?&style=for-the-badge&logo=steam&logoColor=white" alt="Sekiro"/>
-    <img src="https://img.shields.io/badge/Naruto%20Storm%204-%23f6b93b.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Naruto Ninja Storm 4"/>
-    <img src="https://img.shields.io/badge/Far%20Cry%205-%23007396.svg?&style=for-the-badge&logo=ubisoft&logoColor=white" alt="Far Cry 5"/>
-    <img src="https://img.shields.io/badge/Jump%20Force-%23000000.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white" alt="Jump Force"/>
-  </p>
+<h2 align="center">🎮 ~ 𝙶𝚊𝚖𝚎𝚜 𝙸 𝙿𝚕𝚊𝚢 ~</h2>
+
+<!-- Games Section -->
+<div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
+       width="400px" alt="Gaming Anime GIF" style="margin: 10px;">
+  <div style="margin: 10px;">
+    <p align="center">
+      <img src="https://img.shields.io/badge/Wuthering%20Waves-%23000000.svg?&style=for-the-badge&logo=bytedance&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Valorant-%23FF4655.svg?&style=for-the-badge&logo=valorant&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Sekiro:%20Shadows%20Die%20Twice-%231c1c1c.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Naruto%20Storm%204-%23f6b93b.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Far%20Cry%205-%23007396.svg?&style=for-the-badge&logo=ubisoft&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jump%20Force-%23000000.svg?&style=for-the-badge&logo=bandai-namco&logoColor=white"/>
+    </p>
+  </div>
 </div>
 
 <br clear="left"><!-- Clears GIF float so Knowledge starts below -->
