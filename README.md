@@ -9,13 +9,10 @@
 <h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
 
 <!-- About Me Section -->
-<h1 align="center">𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</h1>
-
-<!-- About Me Section -->
-<div style="overflow: hidden;">
+<div style="overflow: hidden; margin-bottom: 40px;">
   <img src="https://giffiles.alphacoders.com/132/132374.gif" 
-       align="right" width="250px" 
-       style="margin-left: 20px; border-radius: 8px;">
+       align="right" width="300px" 
+       style="margin-left: 25px; border-radius: 8px;">
   
   <ul>
     <li> 🖥️ Sometimes I code... mostly I stare at bugs like they're anime plot twists</li>
@@ -31,9 +28,12 @@
 
 <!-- Games Section -->
 <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
+  <!-- GIF on Left -->
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXAydnBzb2R0ZTZjZHA3ZjVsc2g5Yjk3b29qZWgzM2RkeWN4cHd1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2Pk9newN8fkbu/giphy.gif" 
        width="400px" alt="Gaming Anime GIF" style="margin: 10px; border-radius: 8px;">
-  <div style="margin: 10px; text-align: center;">
+  
+  <!-- Game Badges on Right -->
+  <div style="margin: 10px; text-align: left;">
     <p>
       <img src="https://img.shields.io/badge/Wuthering%20Waves-%23000000.svg?&style=for-the-badge&logo=bytedance&logoColor=white"/>
       <img src="https://img.shields.io/badge/Valorant-%23FF4655.svg?&style=for-the-badge&logo=valorant&logoColor=white"/>
