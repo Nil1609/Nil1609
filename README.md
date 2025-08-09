@@ -24,6 +24,8 @@
   </ul>
 </div>
 
+<br>
+
 <h2 align="center">🎮 ~ 𝙶𝚊𝚖𝚎𝚜 𝙸 𝙿𝚕𝚊𝚢~</h2>
 
 <!-- Anime Gaming GIF -->
