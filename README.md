@@ -45,6 +45,8 @@
 </div> 
 <br clear="left"><!-- Clears GIF float so Knowledge starts below -->
 
+<br>
+
 <!-- Knowledge Section -->
 <h2 align="center">~ 📇 𝙺𝚗𝚘𝚠𝚕𝚎𝚍𝚐𝚎📇 ~</h2>
 
