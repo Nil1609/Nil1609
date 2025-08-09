@@ -75,8 +75,9 @@
   <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </div>
 <br>
-<p align="center">Hewe awe some of my <br>
-most used s-s-sociaw things >~< xoxox</p>
+<p align="center"<p align="center">Here’s where you can connect with me<br>
+and follow my work & updates.</p>
+
 
 <p align="center">
   <!-- Mail -->
@@ -99,6 +100,8 @@ most used s-s-sociaw things >~< xoxox</p>
     <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
+
+<br>
 
 
 <h1 align="center"></h1>
