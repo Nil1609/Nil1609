@@ -70,20 +70,36 @@
 
 <br>
 
-<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/j0shbl0ck247/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
-  <a href="https://github.com/j0shbl0ck">
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
-  </a>
-  <a href="https://discord.gg/Hatman77#8963" >
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer">
-  </a>
-  <br>
-  <img src=Add-ons/SAO_K.gif width="400" height="auto">
+  <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </div>
+<br>
+<p align="center">Hewe awe some of my <br>
+most used s-s-sociaw things >~< xoxox</p>
+
+<p align="center">
+  <!-- Mail -->
+  <a href="mailto:niladri246@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/niladri-sekhar-dutta-96576325b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/niladri.sd_16/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <!-- Discord -->
+  <a href="http://discordapp.com/users/698841300379893791" target="_blank">
+    <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
 
 <h1 align="center"></h1>
 
